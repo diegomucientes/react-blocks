@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display:grid;
+  grid-template-columns: repeat(4,1fr);
+  background-color: lightgray;
+  padding:2rem;
+  gap:1rem;
+
+}
+.app {
+  text-align: center;
+  display:grid;
+  grid-template-columns: repeat(4,1fr);
+  background-color: lightgray;
+  padding:1rem;
+  gap:2rem;
+  
+}
